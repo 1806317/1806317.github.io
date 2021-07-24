@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+header > h1 {
+    text-align: center;
+    color:orange;
+    background-color: orangered;
+}
+
+body > div > h1 {
+    font-size: 2em;
+    color: blue;
+    text-align: center;
+    background-image: url(../img/sinkan.jpg);
+    padding: 100px;
+    background-size: auto 100%;
+}
+
+body {
+    background-color: coral;
+}

@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+header > h1 {
+    text-align: center;
+    color: blue;
+    background-color: blueviolet;
+}
+
+body > div > h1 {
+    text-align: center;
+    font-size: 2em;
+    background-image: url(../img/party.jpg);
+    padding: 100px;
+    background-size: auto 100%;
+}
+
+body {
+    background-color: cadetblue;
+}

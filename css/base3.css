@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+header > h1 {
+    text-align: center;
+    color: gold;
+    background-color: goldenrod;
+}
+
+body > div > h1 {
+    text-align: center;
+    background-image: url(../img/concert.jpg);
+    font-size: 2em;
+    padding: 100px;
+    background-size: auto 100%; 
+    color: gold;
+}
+
+body {
+    background-color: brown;
+}

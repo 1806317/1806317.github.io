@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+body > header > h1 {
+    text-align: center;
+    color: blue;
+    background-color: honeydew;
+}
+
+body > div > h1 {
+    text-align: center;
+    background-image: url(../img/soudaisai.jpg);
+    padding: 100px;
+    font-size: 2em;
+    background-size: auto 100%;
+    color: red;
+}
+
+body {
+    background-color: rgb(0, 204, 255);
+}

@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+body > header > h1 {
+    text-align: center;
+    color: chartreuse;
+    background-color: cornflowerblue;
+}
+
+body > div > h2 {
+    text-align: center;
+    background-image: url(../img/otanosimi.jpg);
+    padding: 100px;
+    font-size: 2em;
+    background-size: auto 100%;
+    color: cyan;
+}
+
+button {
+    text-align: center;
+    background: linear-gradient(blue, white);
+    padding: 30px;
+}
